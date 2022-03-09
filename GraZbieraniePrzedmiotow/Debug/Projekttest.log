@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Projekttest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GraZbieraniePrzedmiotow.cpp
+C:\Users\Wojtek\Desktop\projekty\Gra\Projekttest\GraZbieraniePrzedmiotow.cpp(148,14): warning C4244: '=': conversion from 'double' to 'clock_t', possible loss of data
+  Projekttest.vcxproj -> C:\Users\Wojtek\Desktop\projekty\Gra\Debug\GraZbieraniePrzedmiotow.exe
